@@ -1,4 +1,4 @@
-# Singly Linked List Data Structure
+# Singly Linked List Data Structure.
 
 ## Learning Goals
 
